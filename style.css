@@ -1,0 +1,41 @@
+/* Custom Font and Text Styling */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #007acc;
+    text-align: center;
+}
+
+h2 {
+    color: #004d99;
+    text-align: center;
+}
+
+footer {
+    color: #007acc;
+    text-align: left;
+}
+
+p {
+    font-size: 1.1em; 
+    line-height: 1.5;
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007acc;
+    box-align: right;
+    text-align: right;
+}
